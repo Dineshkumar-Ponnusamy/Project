@@ -37,9 +37,6 @@ CD Key Generator – Generates a unique key for your applications to use based o
 
 Regex Query Tool – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
-More in the book...
-
-
 Networking
 
 FTP Program – A file transfer program which can transfer files back and forth from a remote web sever.
@@ -102,9 +99,6 @@ Chat Application (remoting style) – Create a chat application which allows you
 
 Bulk Thumbnail Creator – Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
 
-More in the book...
-
-
 Web
 
 WYSIWG (What you see is what you get) Editor – Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
@@ -138,9 +132,6 @@ Content Management System – Create a content management system (CMS) like Joom
 Template Maker – Make a site or application which allows the user to enter in various color codes, elements, dimensions and constructs a template file for a particular application like PHPBB, Invision Board, MySpace, Bebo, etc.
 
 CAPTCHA Maker – Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
-
-More in the book...
-
 
 Files
 
