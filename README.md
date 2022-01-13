@@ -69,8 +69,6 @@ Small Web Server – A simple web server that can serve HTML files that contain 
 
 Web Bot – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
 
-More in the book...
-
 
 Classes
 
@@ -85,8 +83,6 @@ Student Grade Book Application – Keep track of students (with a student class 
 Bank Account Manager - Create a class called “Account” which will be an abstract class for three other classes called “CheckingAccount”, “SavingsAccount” and “BusinessAccount”. Manage credits and debits from these accounts through an ATM style program.
 
 Library Catalog – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
-
-More in the book...
 
 
 Threading
@@ -167,9 +163,6 @@ Code Snippet Manager – Another utility program that allows coders to put in fu
 
 Versioning Manager – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-More in the book...
-
-
 Databases
 
 SQL Query Analyzer – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
@@ -197,9 +190,6 @@ Entity Relationship Diagram (ERD) Creator – A program that allows the user to 
 Database Translation (MySQL <-> SQL Server) – A simple utility that reads in from one database and constructs SQL compliant with another database. Then saves that to another database. One popular transition would be to and from MySQL server for databases like SQL Server and Oracle.
 
 Web Board (Forum) – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
-
-More in the book...
-
 
 Graphics and Multimedia
 
@@ -236,9 +226,6 @@ Screen Saver – Make a screensaver program that will run while your computer si
 Watermarking Application – Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
 
 Turtle Graphics – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
-
-More in the book...
-
 
 Games
 
