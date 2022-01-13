@@ -1,11 +1,5 @@
 def reverse_string(in_string):
-  length = i = len(in_string)
-  output = ""
-  while(i > 0):
-    i -= 1
-    output += in_string[i]
-    #print(in_string[i], end="")
-  return output
+  return in_string[::-1]
   
 def test_reverse_string():
     assert reverse_string("power") == "rewop", "Should be rewop"
